@@ -15,3 +15,4 @@ public class Multiply {
         return a * b;
     }
 }
+
